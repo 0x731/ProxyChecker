@@ -1,0 +1,8 @@
+C:\Users\OC\source\repos\Proxy\obj\Debug\Proxy.csprojAssemblyReference.cache
+C:\Users\OC\source\repos\Proxy\obj\Debug\Proxy.csproj.CoreCompileInputs.cache
+C:\Users\OC\source\repos\Proxy\obj\Debug\Proxy.csproj.CopyComplete
+C:\Users\OC\source\repos\Proxy\bin\Debug\Proxy Checker.exe.config
+C:\Users\OC\source\repos\Proxy\bin\Debug\Proxy Checker.exe
+C:\Users\OC\source\repos\Proxy\bin\Debug\Proxy Checker.pdb
+C:\Users\OC\source\repos\Proxy\obj\Debug\Proxy Checker.exe
+C:\Users\OC\source\repos\Proxy\obj\Debug\Proxy Checker.pdb
